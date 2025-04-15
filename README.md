@@ -91,6 +91,7 @@ Recall: 0.8125
 - Blurriness in generated images
 - Abstract representation of complex shapes
 - Limited vocabulary in text processing
+- Very time comsuming process
 
 ## 🚀 Future Improvements
 - Implement higher resolution GAN architecture
@@ -99,17 +100,10 @@ Recall: 0.8125
 - Incorporate progressive growing techniques
 - Implement WGAN-GP for training stability
 
-## 🤝 Contributing
-Contributions welcome! Please open an issue first to discuss proposed changes.
-
-## 📜 License
-MIT License - See [LICENSE](LICENSE) for details
 
 ## 📚 Acknowledgements
 - CIFAR-10 dataset
 - PyTorch framework
 - NLTK for text processing
 
-**Note:** Pretrained models available on [Google Drive](https://drive.google.com/drive/folders/your_model_folder). For better quality samples, consider training for more epochs with enhanced hardware.
-```
 
